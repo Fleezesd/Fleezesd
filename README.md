@@ -9,4 +9,6 @@
 - 💰 Support my work on 爱发电！
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?userna`me=Fleezesd)](https://github.com/Fleezesd/github-readme-stats)
+![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleezesd&hide=javascript,html,makefile)](https://github.com/Fleezesd/github-readme-stats))
