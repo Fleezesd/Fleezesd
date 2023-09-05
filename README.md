@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Fleezesd. I'm a Web  and K8S  developer . Welcome To my Github Page! <br>
+### Hi there 👋, I'm Fleezesd. I'm a Web  and K8S  developer . Welcome to My Github Page! <br>
 
 - 🍻 I am currently learning Go microservices and Kubernetes Custom Resource Definition (CRD) secondary development
 - ⚡ Go / Python / K8S / Vue.
@@ -11,4 +11,4 @@
 
 ![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleezesd&hide=javascript,html,makefile)](https://github.com/Fleezesd/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleezesd&)](https://github.com/Fleezesd/github-readme-stats))
