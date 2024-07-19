@@ -21,4 +21,4 @@
 
 ![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleezesd&)](https://github.com/Fleezesd/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleezesd&)](https://github.com/Fleezesd/github-readme-stats)
