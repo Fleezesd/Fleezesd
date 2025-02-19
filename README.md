@@ -6,9 +6,9 @@
 
 - 🍻 I am currently learning Go microservices and Kubernetes secondary development
 - ⚡ Go / Python / K8S / Vue
-- 🤔 CICD / Prometheus/ Operator
+- 🤔 CICD / Prometheus / Operator
 - 📑 Learning Kubernetes components source code
-- 🫡 Learning LLM / RAG / AI-Model fine-tuning / langchain
+- 🫡 Learning RAG Langchain / LLM training fine-tuning 
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
