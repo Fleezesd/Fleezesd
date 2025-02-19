@@ -23,7 +23,7 @@
 ![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical)
 
 ### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=go,py,js,ts,react,vue,nuxt,django,flask,pinia,vue,docker,kubernetes,linux,openstack,prometheus,tensorflow,grafana,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,js,ts,react,vue,nuxt,django,flask,pinia,vue,docker,kubernetes,linux,ubuntu,openstack,prometheus,tensorflow,grafana,terraform)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,anaconda,jenkins,ansible,mysql,sqlite,redis,postgresql,kafka,elasticsearch,plan9,nginx,npm,yarn,vite,vitest,webpack,anaconda,github,githubactions,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,anaconda,jenkins,ansible,mysql,sqlite,redis,postgresql,kafka,elasticsearch,plan9,nginx,npm,yarn,vite,vitest,webpack,github,githubactions,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
