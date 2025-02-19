@@ -4,9 +4,10 @@
   <img src="https://cdn.jsdelivr.net/gh/uestc-wxy/uestc-wxy/img/coding.gif" /><br>
 
 
-- 🍻 I am currently learning Go microservices and Kubernetes Custom Resource Definition (CRD) secondary development
+- 🍻 I am currently learning Go microservices and Kubernetes operator secondary development
 - ⚡ Go / Python / K8S / Vue.
-- 🤔 CICD / Prometheus/ CRD
+- 🤔 CICD / Prometheus/ Operator
+- 📑 Learning kubernetes components source code
 - 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
@@ -21,4 +22,8 @@
 
 ![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleezesd&)](https://github.com/Fleezesd/github-readme-stats)
+### 🍉 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=go,py,rust,js,ts,react,vue,nuxt,django,flask,pinia,vue,docker,kubernetes,openstack,prometheus,tensorflow,grafana,terraform,)](https://skillicons.dev)
+
+### 🔨 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=jenkins,ansible,mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,npm,yarn,vite,vitest,webpack,anaconda,github,githubactions,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
