@@ -21,7 +21,7 @@
 </div>
 </td></tr>
 
-![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical)
+![Fleezesd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleezesd&show_icons=true&theme=radical&include_all_commits=true)
 
 ### 🍉 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,ts,react,vue,nuxt,django,flask,pinia,vue,docker,kubernetes,linux,ubuntu,openstack,prometheus,tensorflow,grafana,terraform)](https://skillicons.dev)
